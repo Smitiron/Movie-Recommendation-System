@@ -91,13 +91,3 @@ Type `exit` to quit.
 - Interactive CLI Application
 
 ---
-
-## ✨ Future Improvements
-- Add **Collaborative Filtering** (based on user ratings).
-- Deploy as a **web application** (Flask/Django/Streamlit).
-- Use **word embeddings** for richer recommendations.
-
----
-
-## 👨‍💻 Author
-Developed as a **2nd Year ML Task – Movie Recommendation System Project**
